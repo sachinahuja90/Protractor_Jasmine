@@ -1,0 +1,248 @@
+[2019-08-02T23:30:02.153] [INFO] ProtractorTest - chrome - Started a new testcase
+[2019-08-02T23:30:02.550] [INFO] ProtractorTest - firefox - Started a new testcase
+[2019-08-02T23:30:03.786] [INFO] ProtractorTest - chrome - User Navigated to : http://www.way2automation.com/angularjs-protractor/banking/#/login
+[2019-08-02T23:30:03.918] [INFO] ProtractorTest - firefox - User Navigated to : http://www.way2automation.com/angularjs-protractor/banking/#/login
+[2019-08-02T23:30:03.997] [INFO] ProtractorTest - chrome - Validation Pass => Webelement[By(css selector, button[ng-click="manager()"])] present on screen
+[2019-08-02T23:30:04.276] [INFO] ProtractorTest - firefox - Validation Pass => Webelement[By(css selector, button[ng-click="manager()"])] present on screen
+[2019-08-02T23:30:04.925] [INFO] ProtractorTest - firefox - Webelement : [By(xpath, //button[@ng-click='customer()'])] clicked
+[2019-08-02T23:30:04.932] [INFO] ProtractorTest - chrome - Webelement : [By(xpath, //button[@ng-click='customer()'])] clicked
+[2019-08-02T23:30:05.552] [INFO] ProtractorTest - chrome - Webelement : [by.model("custId")] clicked
+[2019-08-02T23:30:05.993] [INFO] ProtractorTest - firefox - Webelement : [by.model("custId")] clicked
+[2019-08-02T23:30:06.327] [INFO] ProtractorTest - chrome - Harry Potter has been selected from dropdown [by.model("custId")]
+[2019-08-02T23:30:06.882] [INFO] ProtractorTest - firefox - Harry Potter has been selected from dropdown [by.model("custId")]
+[2019-08-02T23:30:07.095] [INFO] ProtractorTest - chrome - Webelement : [By(xpath, //button[@type='submit'])] clicked
+[2019-08-02T23:30:07.509] [INFO] ProtractorTest - firefox - Webelement : [By(xpath, //button[@type='submit'])] clicked
+[2019-08-02T23:30:07.651] [INFO] ProtractorTest - chrome - Validation Pass => Webelement : [By(xpath, //span[@class='fontBig ng-binding'])] contains text : Harry Potter
+[2019-08-02T23:30:08.046] [INFO] ProtractorTest - firefox - Validation Pass => Webelement : [By(xpath, //span[@class='fontBig ng-binding'])] contains text : Harry Potter
+[2019-08-02T23:30:08.360] [INFO] ProtractorTest - chrome - Started a new testcase
+[2019-08-02T23:30:08.361] [INFO] ProtractorTest - chrome - Test case - passed : Verify Customer Account Validate the Customer login into the application
+[2019-08-02T23:30:08.752] [INFO] ProtractorTest - firefox - Started a new testcase
+[2019-08-02T23:30:08.752] [INFO] ProtractorTest - firefox - Test case - passed : Verify Customer Account Validate the Customer login into the application
+[2019-08-02T23:30:09.126] [INFO] ProtractorTest - chrome - User Navigated to : http://www.way2automation.com/angularjs-protractor/banking/#/login
+[2019-08-02T23:30:09.283] [INFO] ProtractorTest - chrome - Validation Pass => Webelement[By(css selector, button[ng-click="manager()"])] present on screen
+[2019-08-02T23:30:09.898] [INFO] ProtractorTest - chrome - Webelement : [By(xpath, //button[@ng-click='customer()'])] clicked
+[2019-08-02T23:30:10.115] [INFO] ProtractorTest - firefox - User Navigated to : http://www.way2automation.com/angularjs-protractor/banking/#/login
+[2019-08-02T23:30:10.269] [INFO] ProtractorTest - firefox - Validation Pass => Webelement[By(css selector, button[ng-click="manager()"])] present on screen
+[2019-08-02T23:30:10.503] [INFO] ProtractorTest - chrome - Webelement : [by.model("custId")] clicked
+[2019-08-02T23:30:10.849] [INFO] ProtractorTest - firefox - Webelement : [By(xpath, //button[@ng-click='customer()'])] clicked
+[2019-08-02T23:30:11.187] [INFO] ProtractorTest - chrome - Harry Potter has been selected from dropdown [by.model("custId")]
+[2019-08-02T23:30:11.616] [INFO] ProtractorTest - firefox - Webelement : [by.model("custId")] clicked
+[2019-08-02T23:30:11.795] [INFO] ProtractorTest - chrome - Webelement : [By(xpath, //button[@type='submit'])] clicked
+[2019-08-02T23:30:12.384] [INFO] ProtractorTest - chrome - Validation Pass => Webelement : [By(xpath, //span[@class='fontBig ng-binding'])] contains text : Harry Potter
+[2019-08-02T23:30:12.514] [INFO] ProtractorTest - firefox - Harry Potter has been selected from dropdown [by.model("custId")]
+[2019-08-02T23:30:13.035] [INFO] ProtractorTest - chrome - Webelement : [By(css selector, [ng-click="deposit()"])] clicked
+[2019-08-02T23:30:13.205] [INFO] ProtractorTest - firefox - Webelement : [By(xpath, //button[@type='submit'])] clicked
+[2019-08-02T23:30:13.834] [INFO] ProtractorTest - chrome - Text : '200' typed in Webelement[By(xpath, //input[@placeholder='amount'])]
+[2019-08-02T23:30:13.835] [INFO] ProtractorTest - firefox - Validation Pass => Webelement : [By(xpath, //span[@class='fontBig ng-binding'])] contains text : Harry Potter
+[2019-08-02T23:30:14.457] [INFO] ProtractorTest - chrome - Webelement : [By(xpath, //button[@type='submit'])] clicked
+[2019-08-02T23:30:14.624] [INFO] ProtractorTest - firefox - Webelement : [By(css selector, [ng-click="deposit()"])] clicked
+[2019-08-02T23:30:15.136] [INFO] ProtractorTest - chrome - Validation Pass => Webelement : [By(xpath, //span[@class='error ng-binding'])] contains text : Deposit Successful
+[2019-08-02T23:30:15.364] [INFO] ProtractorTest - firefox - Text : '200' typed in Webelement[By(xpath, //input[@placeholder='amount'])]
+[2019-08-02T23:30:15.668] [INFO] ProtractorTest - chrome - Started a new testcase
+[2019-08-02T23:30:15.669] [INFO] ProtractorTest - chrome - Test case - passed : Verify Customer Account Validate that customer is able to deposit amount in his account.
+[2019-08-02T23:30:16.193] [INFO] ProtractorTest - firefox - Webelement : [By(xpath, //button[@type='submit'])] clicked
+[2019-08-02T23:30:16.776] [INFO] ProtractorTest - firefox - Validation Pass => Webelement : [By(xpath, //span[@class='error ng-binding'])] contains text : Deposit Successful
+[2019-08-02T23:30:16.830] [INFO] ProtractorTest - chrome - User Navigated to : http://www.way2automation.com/angularjs-protractor/banking/#/login
+[2019-08-02T23:30:17.029] [INFO] ProtractorTest - chrome - Validation Pass => Webelement[By(css selector, button[ng-click="manager()"])] present on screen
+[2019-08-02T23:30:17.309] [INFO] ProtractorTest - firefox - Started a new testcase
+[2019-08-02T23:30:17.319] [INFO] ProtractorTest - firefox - Test case - passed : Verify Customer Account Validate that customer is able to deposit amount in his account.
+[2019-08-02T23:30:17.723] [INFO] ProtractorTest - chrome - Webelement : [By(xpath, //button[@ng-click='customer()'])] clicked
+[2019-08-02T23:30:18.432] [INFO] ProtractorTest - chrome - Webelement : [by.model("custId")] clicked
+[2019-08-02T23:30:18.938] [INFO] ProtractorTest - firefox - User Navigated to : http://www.way2automation.com/angularjs-protractor/banking/#/login
+[2019-08-02T23:30:19.085] [INFO] ProtractorTest - firefox - Validation Pass => Webelement[By(css selector, button[ng-click="manager()"])] present on screen
+[2019-08-02T23:30:19.190] [INFO] ProtractorTest - chrome - Harry Potter has been selected from dropdown [by.model("custId")]
+[2019-08-02T23:30:19.851] [INFO] ProtractorTest - firefox - Webelement : [By(xpath, //button[@ng-click='customer()'])] clicked
+[2019-08-02T23:30:19.905] [INFO] ProtractorTest - chrome - Webelement : [By(xpath, //button[@type='submit'])] clicked
+[2019-08-02T23:30:20.519] [INFO] ProtractorTest - chrome - Validation Pass => Webelement : [By(xpath, //span[@class='fontBig ng-binding'])] contains text : Harry Potter
+[2019-08-02T23:30:20.661] [INFO] ProtractorTest - firefox - Webelement : [by.model("custId")] clicked
+[2019-08-02T23:30:21.277] [INFO] ProtractorTest - chrome - Webelement : [By(css selector, [ng-click="deposit()"])] clicked
+[2019-08-02T23:30:21.591] [INFO] ProtractorTest - firefox - Harry Potter has been selected from dropdown [by.model("custId")]
+[2019-08-02T23:30:21.942] [INFO] ProtractorTest - chrome - Text : '310' typed in Webelement[By(xpath, //input[@placeholder='amount'])]
+[2019-08-02T23:30:22.240] [INFO] ProtractorTest - firefox - Webelement : [By(xpath, //button[@type='submit'])] clicked
+[2019-08-02T23:30:22.614] [INFO] ProtractorTest - chrome - Webelement : [By(xpath, //button[@type='submit'])] clicked
+[2019-08-02T23:30:22.808] [INFO] ProtractorTest - firefox - Validation Pass => Webelement : [By(xpath, //span[@class='fontBig ng-binding'])] contains text : Harry Potter
+[2019-08-02T23:30:23.228] [INFO] ProtractorTest - chrome - Validation Pass => Webelement : [By(xpath, //span[@class='error ng-binding'])] contains text : Deposit Successful
+[2019-08-02T23:30:23.600] [INFO] ProtractorTest - firefox - Webelement : [By(css selector, [ng-click="deposit()"])] clicked
+[2019-08-02T23:30:23.758] [INFO] ProtractorTest - chrome - Started a new testcase
+[2019-08-02T23:30:23.759] [INFO] ProtractorTest - chrome - Test case - passed : Verify Customer Account Validate that customer is able to deposit amount in his account.
+[2019-08-02T23:30:24.196] [INFO] ProtractorTest - firefox - Text : '310' typed in Webelement[By(xpath, //input[@placeholder='amount'])]
+[2019-08-02T23:30:25.025] [INFO] ProtractorTest - firefox - Webelement : [By(xpath, //button[@type='submit'])] clicked
+[2019-08-02T23:30:25.210] [INFO] ProtractorTest - chrome - User Navigated to : http://www.way2automation.com/angularjs-protractor/banking/#/login
+[2019-08-02T23:30:25.492] [INFO] ProtractorTest - chrome - Validation Pass => Webelement[By(css selector, button[ng-click="manager()"])] present on screen
+[2019-08-02T23:30:25.634] [INFO] ProtractorTest - firefox - Validation Pass => Webelement : [By(xpath, //span[@class='error ng-binding'])] contains text : Deposit Successful
+[2019-08-02T23:30:26.157] [INFO] ProtractorTest - firefox - Started a new testcase
+[2019-08-02T23:30:26.158] [INFO] ProtractorTest - firefox - Test case - passed : Verify Customer Account Validate that customer is able to deposit amount in his account.
+[2019-08-02T23:30:26.215] [INFO] ProtractorTest - chrome - Webelement : [By(xpath, //button[@ng-click='customer()'])] clicked
+[2019-08-02T23:30:26.925] [INFO] ProtractorTest - chrome - Webelement : [by.model("custId")] clicked
+[2019-08-02T23:30:27.634] [INFO] ProtractorTest - firefox - User Navigated to : http://www.way2automation.com/angularjs-protractor/banking/#/login
+[2019-08-02T23:30:27.800] [INFO] ProtractorTest - firefox - Validation Pass => Webelement[By(css selector, button[ng-click="manager()"])] present on screen
+[2019-08-02T23:30:27.822] [INFO] ProtractorTest - chrome - Harry Potter has been selected from dropdown [by.model("custId")]
+[2019-08-02T23:30:28.650] [INFO] ProtractorTest - firefox - Webelement : [By(xpath, //button[@ng-click='customer()'])] clicked
+[2019-08-02T23:30:28.656] [INFO] ProtractorTest - chrome - Webelement : [By(xpath, //button[@type='submit'])] clicked
+[2019-08-02T23:30:29.325] [INFO] ProtractorTest - chrome - Validation Pass => Webelement : [By(xpath, //span[@class='fontBig ng-binding'])] contains text : Harry Potter
+[2019-08-02T23:30:29.520] [INFO] ProtractorTest - firefox - Webelement : [by.model("custId")] clicked
+[2019-08-02T23:30:30.105] [INFO] ProtractorTest - chrome - Webelement : [By(css selector, [ng-click="withdrawl()"])] clicked
+[2019-08-02T23:30:30.446] [INFO] ProtractorTest - firefox - Harry Potter has been selected from dropdown [by.model("custId")]
+[2019-08-02T23:30:30.906] [INFO] ProtractorTest - chrome - Text : '200' typed in Webelement[By(xpath, //input[@placeholder='amount'])]
+[2019-08-02T23:30:31.197] [INFO] ProtractorTest - firefox - Webelement : [By(xpath, //button[@type='submit'])] clicked
+[2019-08-02T23:30:31.685] [INFO] ProtractorTest - chrome - Webelement : [By(xpath, //button[@type='submit'])] clicked
+[2019-08-02T23:30:31.801] [INFO] ProtractorTest - firefox - Validation Pass => Webelement : [By(xpath, //span[@class='fontBig ng-binding'])] contains text : Harry Potter
+[2019-08-02T23:30:32.290] [INFO] ProtractorTest - chrome - Validation Pass => Webelement : [By(xpath, //span[@class='error ng-binding'])] contains text : Transaction successful
+[2019-08-02T23:30:32.594] [INFO] ProtractorTest - firefox - Webelement : [By(css selector, [ng-click="withdrawl()"])] clicked
+[2019-08-02T23:30:32.814] [INFO] ProtractorTest - chrome - Started a new testcase
+[2019-08-02T23:30:32.815] [INFO] ProtractorTest - chrome - Test case - passed : Verify Customer Account Validate that customer is able to withdraw amount in his account.
+[2019-08-02T23:30:33.202] [INFO] ProtractorTest - firefox - Text : '200' typed in Webelement[By(xpath, //input[@placeholder='amount'])]
+[2019-08-02T23:30:33.978] [INFO] ProtractorTest - chrome - User Navigated to : http://www.way2automation.com/angularjs-protractor/banking/#/login
+[2019-08-02T23:30:34.016] [INFO] ProtractorTest - firefox - Webelement : [By(xpath, //button[@type='submit'])] clicked
+[2019-08-02T23:30:34.205] [INFO] ProtractorTest - chrome - Validation Pass => Webelement[By(css selector, button[ng-click="manager()"])] present on screen
+[2019-08-02T23:30:34.606] [INFO] ProtractorTest - firefox - Validation Pass => Webelement : [By(xpath, //span[@class='error ng-binding'])] contains text : Transaction successful
+[2019-08-02T23:30:34.925] [INFO] ProtractorTest - chrome - Webelement : [By(xpath, //button[@ng-click='customer()'])] clicked
+[2019-08-02T23:30:35.131] [INFO] ProtractorTest - firefox - Started a new testcase
+[2019-08-02T23:30:35.142] [INFO] ProtractorTest - firefox - Test case - passed : Verify Customer Account Validate that customer is able to withdraw amount in his account.
+[2019-08-02T23:30:35.619] [INFO] ProtractorTest - chrome - Webelement : [by.model("custId")] clicked
+[2019-08-02T23:30:36.454] [INFO] ProtractorTest - chrome - Harry Potter has been selected from dropdown [by.model("custId")]
+[2019-08-02T23:30:36.600] [INFO] ProtractorTest - firefox - User Navigated to : http://www.way2automation.com/angularjs-protractor/banking/#/login
+[2019-08-02T23:30:36.766] [INFO] ProtractorTest - firefox - Validation Pass => Webelement[By(css selector, button[ng-click="manager()"])] present on screen
+[2019-08-02T23:30:37.153] [INFO] ProtractorTest - chrome - Webelement : [By(xpath, //button[@type='submit'])] clicked
+[2019-08-02T23:30:37.408] [INFO] ProtractorTest - firefox - Webelement : [By(xpath, //button[@ng-click='customer()'])] clicked
+[2019-08-02T23:30:37.837] [INFO] ProtractorTest - chrome - Validation Pass => Webelement : [By(xpath, //span[@class='fontBig ng-binding'])] contains text : Harry Potter
+[2019-08-02T23:30:38.226] [INFO] ProtractorTest - firefox - Webelement : [by.model("custId")] clicked
+[2019-08-02T23:30:38.622] [INFO] ProtractorTest - chrome - Webelement : [By(css selector, [ng-click="withdrawl()"])] clicked
+[2019-08-02T23:30:39.246] [INFO] ProtractorTest - firefox - Harry Potter has been selected from dropdown [by.model("custId")]
+[2019-08-02T23:30:39.394] [INFO] ProtractorTest - chrome - Text : '310' typed in Webelement[By(xpath, //input[@placeholder='amount'])]
+[2019-08-02T23:30:40.008] [INFO] ProtractorTest - firefox - Webelement : [By(xpath, //button[@type='submit'])] clicked
+[2019-08-02T23:30:40.093] [INFO] ProtractorTest - chrome - Webelement : [By(xpath, //button[@type='submit'])] clicked
+[2019-08-02T23:30:40.587] [INFO] ProtractorTest - firefox - Validation Pass => Webelement : [By(xpath, //span[@class='fontBig ng-binding'])] contains text : Harry Potter
+[2019-08-02T23:30:40.721] [INFO] ProtractorTest - chrome - Validation Pass => Webelement : [By(xpath, //span[@class='error ng-binding'])] contains text : Transaction successful
+[2019-08-02T23:30:41.253] [INFO] ProtractorTest - chrome - Started a new testcase
+[2019-08-02T23:30:41.254] [INFO] ProtractorTest - chrome - Test case - passed : Verify Customer Account Validate that customer is able to withdraw amount in his account.
+[2019-08-02T23:30:41.376] [INFO] ProtractorTest - firefox - Webelement : [By(css selector, [ng-click="withdrawl()"])] clicked
+[2019-08-02T23:30:41.977] [INFO] ProtractorTest - firefox - Text : '310' typed in Webelement[By(xpath, //input[@placeholder='amount'])]
+[2019-08-02T23:30:42.399] [INFO] ProtractorTest - chrome - User Navigated to : http://www.way2automation.com/angularjs-protractor/banking/#/login
+[2019-08-02T23:30:42.627] [INFO] ProtractorTest - chrome - Validation Pass => Webelement[By(css selector, button[ng-click="manager()"])] present on screen
+[2019-08-02T23:30:42.779] [INFO] ProtractorTest - firefox - Webelement : [By(xpath, //button[@type='submit'])] clicked
+[2019-08-02T23:30:43.439] [INFO] ProtractorTest - chrome - Webelement : [By(xpath, //button[@ng-click='customer()'])] clicked
+[2019-08-02T23:30:43.457] [INFO] ProtractorTest - firefox - Validation Pass => Webelement : [By(xpath, //span[@class='error ng-binding'])] contains text : Transaction successful
+[2019-08-02T23:30:43.981] [INFO] ProtractorTest - firefox - Started a new testcase
+[2019-08-02T23:30:43.982] [INFO] ProtractorTest - firefox - Test case - passed : Verify Customer Account Validate that customer is able to withdraw amount in his account.
+[2019-08-02T23:30:44.226] [INFO] ProtractorTest - chrome - Webelement : [by.model("custId")] clicked
+[2019-08-02T23:30:45.089] [INFO] ProtractorTest - chrome - Harry Potter has been selected from dropdown [by.model("custId")]
+[2019-08-02T23:30:45.536] [INFO] ProtractorTest - firefox - User Navigated to : http://www.way2automation.com/angularjs-protractor/banking/#/login
+[2019-08-02T23:30:45.694] [INFO] ProtractorTest - firefox - Validation Pass => Webelement[By(css selector, button[ng-click="manager()"])] present on screen
+[2019-08-02T23:30:45.736] [INFO] ProtractorTest - chrome - Webelement : [By(xpath, //button[@type='submit'])] clicked
+[2019-08-02T23:30:46.360] [INFO] ProtractorTest - chrome - Validation Pass => Webelement : [By(xpath, //span[@class='fontBig ng-binding'])] contains text : Harry Potter
+[2019-08-02T23:30:46.369] [INFO] ProtractorTest - firefox - Webelement : [By(xpath, //button[@ng-click='customer()'])] clicked
+[2019-08-02T23:30:47.134] [INFO] ProtractorTest - chrome - Webelement : [By(css selector, [ng-click="withdrawl()"])] clicked
+[2019-08-02T23:30:47.244] [INFO] ProtractorTest - firefox - Webelement : [by.model("custId")] clicked
+[2019-08-02T23:30:47.919] [INFO] ProtractorTest - chrome - Text : '012' typed in Webelement[By(xpath, //input[@placeholder='amount'])]
+[2019-08-02T23:30:48.209] [INFO] ProtractorTest - firefox - Harry Potter has been selected from dropdown [by.model("custId")]
+[2019-08-02T23:30:48.665] [INFO] ProtractorTest - chrome - Webelement : [By(xpath, //button[@type='submit'])] clicked
+[2019-08-02T23:30:48.808] [INFO] ProtractorTest - firefox - Webelement : [By(xpath, //button[@type='submit'])] clicked
+[2019-08-02T23:30:49.315] [INFO] ProtractorTest - chrome - Validation Pass => Webelement : [By(xpath, //span[@class='error ng-binding'])] contains text : Transaction Failed. You can not withdraw amount more than the balance.
+[2019-08-02T23:30:49.377] [INFO] ProtractorTest - firefox - Validation Pass => Webelement : [By(xpath, //span[@class='fontBig ng-binding'])] contains text : Harry Potter
+[2019-08-02T23:30:49.844] [INFO] ProtractorTest - chrome - Test case - passed : Verify Customer Account Validate that customer is able to withdraw amount in his account.
+[2019-08-02T23:30:49.847] [INFO] ProtractorTest - chrome - Started a new testcase
+[2019-08-02T23:30:49.847] [INFO] ProtractorTest - chrome - Test Suite - Verify Customer Account : finished
+[2019-08-02T23:30:50.221] [INFO] ProtractorTest - firefox - Webelement : [By(css selector, [ng-click="withdrawl()"])] clicked
+[2019-08-02T23:30:50.868] [INFO] ProtractorTest - firefox - Text : '012' typed in Webelement[By(xpath, //input[@placeholder='amount'])]
+[2019-08-02T23:30:51.085] [INFO] ProtractorTest - chrome - User Navigated to : http://www.way2automation.com/angularjs-protractor/banking/#/login
+[2019-08-02T23:30:51.368] [INFO] ProtractorTest - chrome - Validation Pass => Webelement[By(css selector, button[ng-click="manager()"])] present on screen
+[2019-08-02T23:30:51.735] [INFO] ProtractorTest - firefox - Webelement : [By(xpath, //button[@type='submit'])] clicked
+[2019-08-02T23:30:52.128] [INFO] ProtractorTest - chrome - Webelement : [By(css selector, button[ng-click="manager()"])] clicked
+[2019-08-02T23:30:52.341] [INFO] ProtractorTest - firefox - Validation Pass => Webelement : [By(xpath, //span[@class='error ng-binding'])] contains text : Transaction Failed. You can not withdraw amount more than the balance.
+[2019-08-02T23:30:52.868] [INFO] ProtractorTest - firefox - Test case - passed : Verify Customer Account Validate that customer is able to withdraw amount in his account.
+[2019-08-02T23:30:52.870] [INFO] ProtractorTest - firefox - Started a new testcase
+[2019-08-02T23:30:52.871] [INFO] ProtractorTest - firefox - Test Suite - Verify Customer Account : finished
+[2019-08-02T23:30:52.887] [INFO] ProtractorTest - chrome - Webelement : [By(css selector, [ng-click='addCust()'])] clicked
+[2019-08-02T23:30:53.566] [INFO] ProtractorTest - chrome - Text : 'Rahul' typed in Webelement[by.model("fName")]
+[2019-08-02T23:30:54.259] [INFO] ProtractorTest - chrome - Text : 'Kant' typed in Webelement[by.model("lName")]
+[2019-08-02T23:30:54.397] [INFO] ProtractorTest - firefox - User Navigated to : http://www.way2automation.com/angularjs-protractor/banking/#/login
+[2019-08-02T23:30:54.673] [INFO] ProtractorTest - firefox - Validation Pass => Webelement[By(css selector, button[ng-click="manager()"])] present on screen
+[2019-08-02T23:30:55.068] [INFO] ProtractorTest - chrome - Text : 'E1234' typed in Webelement[by.model("postCd")]
+[2019-08-02T23:30:55.465] [INFO] ProtractorTest - firefox - Webelement : [By(css selector, button[ng-click="manager()"])] clicked
+[2019-08-02T23:30:55.890] [INFO] ProtractorTest - chrome - Webelement : [By(xpath, //button[@type='submit'])] clicked
+[2019-08-02T23:30:56.137] [INFO] ProtractorTest - firefox - Webelement : [By(css selector, [ng-click='addCust()'])] clicked
+[2019-08-02T23:30:56.775] [INFO] ProtractorTest - firefox - Text : 'Rahul' typed in Webelement[by.model("fName")]
+[2019-08-02T23:30:56.823] [INFO] ProtractorTest - chrome - Webelement : [By(css selector, [ng-click='showCust()'])] clicked
+[2019-08-02T23:30:57.478] [INFO] ProtractorTest - firefox - Text : 'Kant' typed in Webelement[by.model("lName")]
+[2019-08-02T23:30:57.490] [INFO] ProtractorTest - chrome - Validation Pass => Webelement[By(xpath, //tbody/tr/td[text()='Rahul'])] present on screen
+[2019-08-02T23:30:58.176] [INFO] ProtractorTest - firefox - Text : 'E1234' typed in Webelement[by.model("postCd")]
+[2019-08-02T23:30:58.202] [INFO] ProtractorTest - chrome - Started a new testcase
+[2019-08-02T23:30:58.202] [INFO] ProtractorTest - chrome - Test case - passed : Verify Manager Account Verify Add Customer
+[2019-08-02T23:30:58.793] [INFO] ProtractorTest - firefox - Webelement : [By(xpath, //button[@type='submit'])] clicked
+[2019-08-02T23:30:59.629] [INFO] ProtractorTest - chrome - User Navigated to : http://www.way2automation.com/angularjs-protractor/banking/#/login
+[2019-08-02T23:30:59.862] [INFO] ProtractorTest - firefox - Webelement : [By(css selector, [ng-click='showCust()'])] clicked
+[2019-08-02T23:30:59.882] [INFO] ProtractorTest - chrome - Validation Pass => Webelement[By(css selector, button[ng-click="manager()"])] present on screen
+[2019-08-02T23:31:00.482] [INFO] ProtractorTest - firefox - Validation Pass => Webelement[By(xpath, //tbody/tr/td[text()='Rahul'])] present on screen
+[2019-08-02T23:31:00.674] [INFO] ProtractorTest - chrome - Webelement : [By(css selector, button[ng-click="manager()"])] clicked
+[2019-08-02T23:31:01.188] [INFO] ProtractorTest - firefox - Started a new testcase
+[2019-08-02T23:31:01.189] [INFO] ProtractorTest - firefox - Test case - passed : Verify Manager Account Verify Add Customer
+[2019-08-02T23:31:01.384] [INFO] ProtractorTest - chrome - Webelement : [By(css selector, [ng-click='addCust()'])] clicked
+[2019-08-02T23:31:02.081] [INFO] ProtractorTest - chrome - Text : 'Ravneet' typed in Webelement[by.model("fName")]
+[2019-08-02T23:31:02.702] [INFO] ProtractorTest - firefox - User Navigated to : http://www.way2automation.com/angularjs-protractor/banking/#/login
+[2019-08-02T23:31:02.793] [INFO] ProtractorTest - chrome - Text : 'Kaul' typed in Webelement[by.model("lName")]
+[2019-08-02T23:31:02.901] [INFO] ProtractorTest - firefox - Validation Pass => Webelement[By(css selector, button[ng-click="manager()"])] present on screen
+[2019-08-02T23:31:03.568] [INFO] ProtractorTest - chrome - Text : '121234' typed in Webelement[by.model("postCd")]
+[2019-08-02T23:31:03.583] [INFO] ProtractorTest - firefox - Webelement : [By(css selector, button[ng-click="manager()"])] clicked
+[2019-08-02T23:31:04.342] [INFO] ProtractorTest - firefox - Webelement : [By(css selector, [ng-click='addCust()'])] clicked
+[2019-08-02T23:31:04.400] [INFO] ProtractorTest - chrome - Webelement : [By(xpath, //button[@type='submit'])] clicked
+[2019-08-02T23:31:05.020] [INFO] ProtractorTest - firefox - Text : 'Ravneet' typed in Webelement[by.model("fName")]
+[2019-08-02T23:31:05.364] [INFO] ProtractorTest - chrome - Webelement : [By(css selector, [ng-click='showCust()'])] clicked
+[2019-08-02T23:31:05.619] [INFO] ProtractorTest - firefox - Text : 'Kaul' typed in Webelement[by.model("lName")]
+[2019-08-02T23:31:05.940] [INFO] ProtractorTest - chrome - Validation Pass => Webelement[By(xpath, //tbody/tr/td[text()='Ravneet'])] present on screen
+[2019-08-02T23:31:06.213] [INFO] ProtractorTest - firefox - Text : '121234' typed in Webelement[by.model("postCd")]
+[2019-08-02T23:31:06.644] [INFO] ProtractorTest - chrome - Started a new testcase
+[2019-08-02T23:31:06.645] [INFO] ProtractorTest - chrome - Test case - passed : Verify Manager Account Verify Add Customer
+[2019-08-02T23:31:06.834] [INFO] ProtractorTest - firefox - Webelement : [By(xpath, //button[@type='submit'])] clicked
+[2019-08-02T23:31:07.745] [INFO] ProtractorTest - firefox - Webelement : [By(css selector, [ng-click='showCust()'])] clicked
+[2019-08-02T23:31:08.032] [INFO] ProtractorTest - chrome - User Navigated to : http://www.way2automation.com/angularjs-protractor/banking/#/login
+[2019-08-02T23:31:08.292] [INFO] ProtractorTest - chrome - Validation Pass => Webelement[By(xpath, //button[@ng-click='customer()'])] present on screen
+[2019-08-02T23:31:08.340] [INFO] ProtractorTest - firefox - Validation Pass => Webelement[By(xpath, //tbody/tr/td[text()='Ravneet'])] present on screen
+[2019-08-02T23:31:09.001] [INFO] ProtractorTest - chrome - Webelement : [By(css selector, button[ng-click="manager()"])] clicked
+[2019-08-02T23:31:09.046] [INFO] ProtractorTest - firefox - Started a new testcase
+[2019-08-02T23:31:09.046] [INFO] ProtractorTest - firefox - Test case - passed : Verify Manager Account Verify Add Customer
+[2019-08-02T23:31:09.643] [INFO] ProtractorTest - chrome - Webelement : [By(css selector, [ng-click='openAccount()'])] clicked
+[2019-08-02T23:31:10.306] [INFO] ProtractorTest - chrome - Webelement : [by.model("custId")] clicked
+[2019-08-02T23:31:10.489] [INFO] ProtractorTest - firefox - User Navigated to : http://www.way2automation.com/angularjs-protractor/banking/#/login
+[2019-08-02T23:31:10.743] [INFO] ProtractorTest - firefox - Validation Pass => Webelement[By(xpath, //button[@ng-click='customer()'])] present on screen
+[2019-08-02T23:31:11.304] [INFO] ProtractorTest - chrome - Rahul Kant has been selected from dropdown [by.model("custId")]
+[2019-08-02T23:31:11.385] [INFO] ProtractorTest - firefox - Webelement : [By(css selector, button[ng-click="manager()"])] clicked
+[2019-08-02T23:31:12.026] [INFO] ProtractorTest - chrome - Webelement : [by.model("currency")] clicked
+[2019-08-02T23:31:12.141] [INFO] ProtractorTest - firefox - Webelement : [By(css selector, [ng-click='openAccount()'])] clicked
+[2019-08-02T23:31:12.877] [INFO] ProtractorTest - chrome - Pound has been selected from dropdown [by.model("currency")]
+[2019-08-02T23:31:12.976] [INFO] ProtractorTest - firefox - Webelement : [by.model("custId")] clicked
+[2019-08-02T23:31:13.550] [INFO] ProtractorTest - chrome - Webelement : [By(xpath, //button[@type='submit'])] clicked
+[2019-08-02T23:31:13.955] [INFO] ProtractorTest - firefox - Rahul Kant has been selected from dropdown [by.model("custId")]
+[2019-08-02T23:31:14.455] [INFO] ProtractorTest - chrome - Webelement : [By(css selector, [ng-click='showCust()'])] clicked
+[2019-08-02T23:31:14.761] [INFO] ProtractorTest - firefox - Webelement : [by.model("currency")] clicked
+[2019-08-02T23:31:15.263] [INFO] ProtractorTest - chrome - Started a new testcase
+[2019-08-02T23:31:15.264] [INFO] ProtractorTest - chrome - Test case - passed : Verify Manager Account Verify Open Account
+[2019-08-02T23:31:15.688] [INFO] ProtractorTest - firefox - Pound has been selected from dropdown [by.model("currency")]
+[2019-08-02T23:31:16.287] [INFO] ProtractorTest - firefox - Webelement : [By(xpath, //button[@type='submit'])] clicked
+[2019-08-02T23:31:16.617] [INFO] ProtractorTest - chrome - User Navigated to : http://www.way2automation.com/angularjs-protractor/banking/#/login
+[2019-08-02T23:31:16.880] [INFO] ProtractorTest - chrome - Validation Pass => Webelement[By(xpath, //button[@ng-click='customer()'])] present on screen
+[2019-08-02T23:31:17.323] [INFO] ProtractorTest - firefox - Webelement : [By(css selector, [ng-click='showCust()'])] clicked
+[2019-08-02T23:31:17.617] [INFO] ProtractorTest - chrome - Webelement : [By(css selector, button[ng-click="manager()"])] clicked
+[2019-08-02T23:31:18.158] [INFO] ProtractorTest - firefox - Started a new testcase
+[2019-08-02T23:31:18.159] [INFO] ProtractorTest - firefox - Test case - passed : Verify Manager Account Verify Open Account
+[2019-08-02T23:31:18.390] [INFO] ProtractorTest - chrome - Webelement : [By(css selector, [ng-click='openAccount()'])] clicked
+[2019-08-02T23:31:19.083] [INFO] ProtractorTest - chrome - Webelement : [by.model("custId")] clicked
+[2019-08-02T23:31:19.701] [INFO] ProtractorTest - firefox - User Navigated to : http://www.way2automation.com/angularjs-protractor/banking/#/login
+[2019-08-02T23:31:19.867] [INFO] ProtractorTest - firefox - Validation Pass => Webelement[By(xpath, //button[@ng-click='customer()'])] present on screen
+[2019-08-02T23:31:19.956] [INFO] ProtractorTest - chrome - Ravneet Kaul has been selected from dropdown [by.model("custId")]
+[2019-08-02T23:31:20.511] [INFO] ProtractorTest - firefox - Webelement : [By(css selector, button[ng-click="manager()"])] clicked
+[2019-08-02T23:31:20.673] [INFO] ProtractorTest - chrome - Webelement : [by.model("currency")] clicked
+[2019-08-02T23:31:21.262] [INFO] ProtractorTest - firefox - Webelement : [By(css selector, [ng-click='openAccount()'])] clicked
+[2019-08-02T23:31:21.455] [INFO] ProtractorTest - chrome - Dollar has been selected from dropdown [by.model("currency")]
+[2019-08-02T23:31:22.085] [INFO] ProtractorTest - firefox - Webelement : [by.model("custId")] clicked
+[2019-08-02T23:31:22.110] [INFO] ProtractorTest - chrome - Webelement : [By(xpath, //button[@type='submit'])] clicked
+[2019-08-02T23:31:23.032] [INFO] ProtractorTest - firefox - Ravneet Kaul has been selected from dropdown [by.model("custId")]
+[2019-08-02T23:31:23.033] [INFO] ProtractorTest - chrome - Webelement : [By(css selector, [ng-click='showCust()'])] clicked
+[2019-08-02T23:31:23.907] [INFO] ProtractorTest - firefox - Webelement : [by.model("currency")] clicked
+[2019-08-02T23:31:23.908] [INFO] ProtractorTest - chrome - Test case - passed : Verify Manager Account Verify Open Account
+[2019-08-02T23:31:23.910] [INFO] ProtractorTest - chrome - Test Suite - Verify Manager Account : finished
+[2019-08-02T23:31:24.890] [INFO] ProtractorTest - firefox - Dollar has been selected from dropdown [by.model("currency")]
+[2019-08-02T23:31:25.502] [INFO] ProtractorTest - firefox - Webelement : [By(xpath, //button[@type='submit'])] clicked
+[2019-08-02T23:31:26.387] [INFO] ProtractorTest - firefox - Webelement : [By(css selector, [ng-click='showCust()'])] clicked
+[2019-08-02T23:31:27.170] [INFO] ProtractorTest - firefox - Test case - passed : Verify Manager Account Verify Open Account
+[2019-08-02T23:31:27.171] [INFO] ProtractorTest - firefox - Test Suite - Verify Manager Account : finished

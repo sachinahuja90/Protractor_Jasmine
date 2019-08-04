@@ -1,0 +1,14 @@
+{
+    "appenders": {
+      "everything": {
+        "type": "file",
+        "filename": "logs.log",
+        "maxLogSize": 20480,
+        "backups": 4,
+        "compress": true
+      }
+    },
+    "categories": {
+      "default": { "appenders": ["everything"], "level": "info" }
+    }
+  }

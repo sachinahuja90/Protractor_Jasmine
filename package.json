@@ -1,0 +1,27 @@
+{
+  "name": "session-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "protractor config.js",
+    "update": "webdriver-manager update",
+    "start": "webdriver-manager start"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "fs": "^0.0.1-security",
+    "fs-extra": "^8.1.0",
+    "jasmine-data-provider": "^2.2.0",
+    "jasmine-reporters": "^2.3.2",
+    "log4js": "4.4.0",
+    "mkdirp": "^0.5.1",
+    "mv": "^2.1.1",
+    "node-datetime": "^2.1.2",
+    "path": "^0.12.7",
+    "properties-reader": "^0.3.1",
+    "protractor": "^5.4.2",
+    "protractor-jasmine2-html-reporter": "0.0.7"
+  }
+}
